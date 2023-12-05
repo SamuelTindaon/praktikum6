@@ -4,8 +4,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** |Delfyno dwi pastyo |
-| **NIM** | 312310480 |
+| **Nama** |Samuel Damatta Tindaon |
+| **NIM** | 312310462 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 
